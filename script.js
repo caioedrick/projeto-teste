@@ -21,4 +21,4 @@ function toggleMode() {
      //se tiver sem dark mode, adiciona imagem light
      img.setAttribute("src", "./assets/Avatar Light mode.png")
    }
-}
+} 

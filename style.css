@@ -13,7 +13,7 @@
   --switch-bg-url: url(./assets/sun.svg);
 }
 
-.dark  {
+.dark {
   --text-color: white;
   --bg-url: url(./assets/bg-desktop.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
